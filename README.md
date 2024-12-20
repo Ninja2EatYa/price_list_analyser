@@ -67,5 +67,6 @@ price_list_analyser/
 Если вы хотите внести свой вклад в проект, пожалуйста, сделайте форк репозитория и отправьте pull request с вашими изменениями.
 ## ➡️ Контакты
 ❓ Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной по адресу 💌 [777jamesholden@gmail.com]()
+
 [![Go to my GitHub page](https://img.shields.io/badge/Go_to_my_GitHub_page-grey?style=flat&logo=github&labelColor=yellow&color=grey&link=https%3A%2F%2Fgithub.com%2FNinja2EatYa%2F
 )](https://github.com/Ninja2EatYa)
